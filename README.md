@@ -1,3 +1,3 @@
 # SnakeGame
 
-a simple snake game with all the basic functions, bult in Javascript. 
+a simple snake game with all the basic functions, built in Javascript. 
